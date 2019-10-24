@@ -1,14 +1,14 @@
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://learn.hasura.io",
+		"siteUrl": "https://github.com/impatient-researcher/",
 		"gaTrackingId": null
 	},
 	"header": {
-		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
-		"logoLink": "https://learn.hasura.io",
-		"title": "Gatsby Gitbook Boilerplate",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"logo": "https://www.dropbox.com/s/ism2jer738t6kya/logo.png?raw=1",
+		"logoLink": "https://github.com/impatient-researcher/",
+		"title": "Sea-pin",
+		"githubUrl": "https://github.com/impatient-researcher/gatsby-gitbook-starter",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
@@ -28,17 +28,17 @@ const config = {
     		"/codeblock"
 		],
 		"links": [
-			{ "text": "Hasura", "link": "https://hasura.io"},
+			{ "text": "Sea-pin", "link": "https://github.com/impatient-researcher/"},
 		],
 		"frontline": false,
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
-		"title": "Gatsby Gitbook Boilerplate | Hasura",
-		"description": "Documentation built with mdx. Powering learn.hasura.io ",
+		"title": "Sea-pin | Impatient Researcher",
+		"description": "Notes gathered on my journey to become an economist.",
 		"ogImage": null,
-		"docsLocation": "https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content",
-		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
+		"docsLocation": "https://github.com/impatient-researcher/gatsby-gitbook-starter/tree/master/content",
+		"favicon": "https://www.dropbox.com/s/7gg2f2svbjjyerv/logo.svg?raw=1"
 	},
 };
 
